@@ -2572,7 +2572,7 @@ input, select, textarea {
 		-webkit-flex-wrap: wrap;
 		-ms-flex-wrap: wrap;
 		flex-wrap: wrap;
-		postiion: relative;
+		position: relative;
 		margin: -2.5em 0 0 -2.5em;
 	}
 
@@ -3326,4 +3326,25 @@ input, select, textarea {
 				padding: 0 1.25em;
 			}
 
+		}
+
+		.logo{
+			width:100px;
+			height: 100px;
+		}
+
+		.Flu{
+			width: 200px;
+			margin-left: 95px ;
+			margin-top: 45px;
+		}
+
+		.marca{
+			width: 50px;
+			margin-left: -125px;
+		}
+
+		.code{
+			width: 50px;
+			margin-left: -125px;
 		}
